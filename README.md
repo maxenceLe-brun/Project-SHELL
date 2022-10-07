@@ -1,0 +1,2 @@
+# Project-SHELL
+terminal linux

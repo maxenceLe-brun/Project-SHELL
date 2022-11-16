@@ -1,4 +1,4 @@
-# Project-SHELL
+# Shell
 terminal linux
 
 Lien Google Doc du travail
